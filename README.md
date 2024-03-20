@@ -16,7 +16,7 @@ This project focuses on empowering informed decisions through image captioning a
 
 2. Navigate to the project directory:  cd Project_2_submission
 
-3. Run : python setup.py install
+3. Run python setup.py install
 
    
 ## Usage
