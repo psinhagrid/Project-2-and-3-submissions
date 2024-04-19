@@ -33,6 +33,11 @@ To use this project, follow these steps:
 
 3. In `test.ipynb`, input custom prompts to test the model's response to specific queries.
 
+## Update
+
+The project 3 folder is now added which makes a secure API, along with files to perform the tasks of explainable AI. 
+It gives us a deeper understanding on how the decisions are being made. 
+
 For any questions or issues with running the notebooks, please contact us for assistance.
 
 ## Contact
